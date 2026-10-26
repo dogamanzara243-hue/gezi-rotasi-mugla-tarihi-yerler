@@ -1,107 +1,57 @@
 {
     "title": "Mugla Tarihi Yerler Rehberi",
-    "description": "Mugla şehrindeki en seçkin tarihi yerler ve popüler duraklar.",
-    "badge": "Tarihi Yerler",
+    "description": "Mugla şehrindeki en seçkin tarihi mekânlar ve kültür mirasları.",
+    "badge": "Tarih & Kültür Mirası",
     "category": [
         {
-            "id": "mugla-tarihi-yerler-1",
-            "title": "Mugla Antik Kent Surları ve Kalıntılar",
-            "category_badge": "Arkeolojik Miras",
-            "badge_icon": "fa-landmark",
-            "image": "https://images.unsplash.com/photo-1599811568285-b9f4a743a6d9?auto=format&fit=crop&w=800&q=80&fm=webp",
-            "description": "Mugla şehrinin eşsiz dokusunu yansıtan asırlık medeniyetlerin izini taşıyan, taş işçiliğiyle büyüleyen tarihi sur kalıntıları.",
-            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-mugla-tarihi-yerler/",
-            "button_text": "Keşfet"
-        },
-        {
-            "id": "mugla-tarihi-yerler-2",
-            "title": "Mugla Tarihi Kent Meydanı ve Anıt",
-            "category_badge": "Kültürel Simge",
-            "badge_icon": "fa-monument",
-            "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&w=800&q=80&fm=webp",
-            "description": "Mugla şehrinin eşsiz dokusunu yansıtan yüzyıllar boyunca ticaretin ve sosyal yaşamın kalbinin attığı görkemli meydan.",
-            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-mugla-tarihi-yerler/",
-            "button_text": "Keşfet"
-        },
-        {
-            "id": "mugla-tarihi-yerler-3",
-            "title": "Mugla Eski Çarşı ve Zanaat Sokağı",
-            "category_badge": "Otantik Doku",
-            "badge_icon": "fa-store",
-            "image": "https://images.unsplash.com/photo-1545459720-aac8509eb02c?auto=format&fit=crop&w=800&q=80&fm=webp",
-            "description": "Mugla şehrinin eşsiz dokusunu yansıtan geleneksel el sanatları ve baharat kokulu sokaklarıyla nostaljik alışveriş noktası.",
-            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-mugla-tarihi-yerler/",
-            "button_text": "Keşfet"
-        },
-        {
-            "id": "mugla-tarihi-yerler-4",
-            "title": "Mugla Asırlık İbadethane ve Külliye",
-            "category_badge": "Dini ve Mimari Miras",
-            "badge_icon": "fa-mosque",
-            "image": "https://images.unsplash.com/photo-1541432901042-2d8bd64b4a9b?auto=format&fit=crop&w=800&q=80&fm=webp",
-            "description": "Mugla şehrinin eşsiz dokusunu yansıtan i̇nce işçilikli kubbeleri ve akustik yapısıyla mimarlık tarihinin şaheseri.",
-            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-mugla-tarihi-yerler/",
-            "button_text": "Keşfet"
-        },
-        {
-            "id": "mugla-tarihi-yerler-5",
-            "title": "Mugla Tarihi Köprü ve Su Kemeri",
-            "category_badge": "Mühendislik Harikası",
-            "badge_icon": "fa-bridge",
-            "image": "https://images.unsplash.com/photo-1527838832700-5059252407fa?auto=format&fit=crop&w=800&q=80&fm=webp",
-            "description": "Mugla şehrinin eşsiz dokusunu yansıtan geçmişten günümüze ayakta kalmayı başarmış kemerli taş yapı ve su yolları.",
-            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-mugla-tarihi-yerler/",
-            "button_text": "Keşfet"
-        },
-        {
-            "id": "anitkabir",
-            "title": "Anıtkabir",
-            "category_badge": "Cumhuriyet Mirası",
-            "badge_icon": "fa-landmark",
-            "image": "https://images.unsplash.com/photo-1590073242678-70ee3fc28e8e?auto=format&fit=crop&w=800&q=80&fm=webp",
-            "description": "Türkiye Cumhuriyeti'nin kurucusu Mustafa Kemal Atatürk'ün ebedi istirahatgahı olan Anıtkabir, ihtişamlı mimarisi ve müzesiyle Ankara'nın simgesidir.",
-            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-ankara-tarihi-yerler/",
-            "button_text": "Anıtı Keşfet"
-        },
-        {
-            "id": "anadolu-medeniyetleri-muzesi",
-            "title": "Anadolu Medeniyetleri Müzesi",
-            "category_badge": "Dünya Tarihi & Müze",
-            "badge_icon": "fa-building-columns",
-            "image": "https://images.unsplash.com/photo-1566127444979-b3d2b654e3d7?auto=format&fit=crop&w=800&q=80&fm=webp",
-            "description": "Paleolitik Çağ'dan itibaren Anadolu'nun eşsiz tarihini gözler önüne seren, Avrupa'da yılın müzesi ödüllü dünya çapında bir kültür durağı.",
-            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-ankara-tarihi-yerler/",
-            "button_text": "Müzeyi İncele"
-        },
-        {
-            "id": "efes-antik-kenti",
-            "title": "Efes Antik Kenti",
-            "category_badge": "UNESCO Dünya Mirası",
-            "badge_icon": "fa-landmark",
+            "id": "knidos-antik-kenti",
+            "title": "Knidos Antik Kenti",
+            "category_badge": "Ege & Akdeniz Antik Limanı",
+            "badge_icon": "fa-landmark-domed",
             "image": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?auto=format&fit=crop&w=800&q=80&fm=webp",
-            "description": "Celsus Kütüphanesi ve büyük tiyatrosuyla antik dünyanın en görkemli metropollerinden biri olan ikonik kent.",
-            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-izmir-tarihi-yerler/",
-            "button_text": "Efes'i Keşfet"
+            "description": "Datça yarımadasının ucunda, bilim, sanat ve astronominin antik çağdaki merkezi sayılan muazzam liman kenti.",
+            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-mugla-tarihi-yerler/knidos-antik-kenti",
+            "button_text": "Kenti İncele"
         },
         {
-            "id": "zeugma-mozaik-muzesi",
-            "title": "Zeugma Mozaik Müzesi",
-            "category_badge": "Dünyaca Ünlü Müze",
-            "badge_icon": "fa-shapes",
-            "image": "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?auto=format&fit=crop&w=800&q=80&fm=webp",
-            "description": "Çingene Kızı mozaiği ile tanınan, antik döneme ait muazzam Roma mozaiklerine ev sahipliği yapan devasa müze.",
-            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-gaziantep-tarihi-yerler/",
-            "button_text": "Mozaikleri Gör"
+            "id": "kaunos-antik-kenti",
+            "title": "Kaunos Antik Kenti ve Kaya Mezarları",
+            "category_badge": "Karia Mirası",
+            "badge_icon": "fa-monument",
+            "image": "https://images.unsplash.com/photo-1599839575945-a9e5af0c3fa5?auto=format&fit=crop&w=800&q=80&fm=webp",
+            "description": "Dalyan'ın karşısında yükselen, dağlara oyulmuş krallara ait kaya mezarları ile büyüleyici antik liman şehri.",
+            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-mugla-tarihi-yerler/kaunos-antik-kenti",
+            "button_text": "Mezarları Gör"
         },
         {
-            "id": "hatay-arkeoloji-muzesi",
-            "title": "Hatay Arkeoloji Müzesi",
-            "category_badge": "Mozaik Mimarisi",
-            "badge_icon": "fa-cubes",
-            "image": "https://images.unsplash.com/photo-1566127444979-b3d2b654e3d7?auto=format&fit=crop&w=800&q=80&fm=webp",
-            "description": "Dünyanın en büyük mozaik sergileme alanına sahip, Antakya'nın köklü tarihine tanıklık eden muazzam müze.",
-            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-hatay-tarihi-yerler/",
-            "button_text": "Mozaikleri İncele"
+            "id": "kayakoy",
+            "title": "Kayaköy (Hayalet Köy)",
+            "category_badge": "Tarihi Yerleşim",
+            "badge_icon": "fa-ghost",
+            "image": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=800&q=80&fm=webp",
+            "description": "Fethiye'de yer alan, Mübadele dönemi sonrasında terk edilmiş, yüzlerce yıllık taş evlerden oluşan büyüleyici açık hava müzesi.",
+            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-mugla-tarihi-yerler/kayakoy",
+            "button_text": "Köyü Gez"
+        },
+        {
+            "id": "bodrum-kalesi",
+            "title": "Bodrum Kalesi ve Sualtı Arkeoloji Müzesi",
+            "category_badge": "Ortaçağ Kalesi",
+            "badge_icon": "fa-fort-awesome",
+            "image": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=800&q=80&fm=webp",
+            "description": "Saint Jean Şövalyeleri tarafından yapılan, dünyanın en önemli sualtı arkeoloji müzelerinden birine sahip kale.",
+            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-mugla-tarihi-yerler/bodrum-kalesi",
+            "button_text": "Kaleyi Keşfet"
+        },
+        {
+            "id": "halikarnas-mozolesi",
+            "title": "Halikarnas Mozolesi",
+            "category_badge": "Dünyanın 7 Harikası",
+            "badge_icon": "fa-sun",
+            "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&w=800&q=80&fm=webp",
+            "description": "Kral Mausolos adına yaptırılan ve antik dünyanın yedi harikasından biri kabul edilen anıt mezarın alanı.",
+            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-mugla-tarihi-yerler/halikarnas-mozolesi",
+            "button_text": "Alanı Gez"
         }
     ]
 }
